@@ -62,7 +62,7 @@ h2:hover {
   color: red;
 }
 
-div > h2 {
+div h2 {
   color: rosybrown;
   text-align: center;
 }
